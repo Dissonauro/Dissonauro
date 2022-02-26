@@ -1,8 +1,8 @@
-## Olá, me chamo Matheus Castro, Técnico em eletroeletrônica e estudante de programação!
+## Olá, me chamo Matheus Castro, sou Análista e Desenvolvedor de Sistemas e estudante!
 
 
 <div align="center">
-  <a href="https://github.com/Dinossauro">
+  <a href="https://github.com/Dissonauro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinossauro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinossauro&layout=compact&langs_count=7&theme=radical"/>
 </div>
